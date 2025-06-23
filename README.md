@@ -4,6 +4,8 @@ Dibuat menggunakan ESP32 dan library Python OpenCV
 # Video Penjelasan
 
 https://drive.google.com/file/d/1BP7vIZGWI-IXePGuS65M66SoSGR4kszu/view?usp=drive_link
+https://drive.google.com/file/d/1BP7vIZGWI-IXePGuS65M66SoSGR4kszu/view?usp=drive_link
+https://drive.google.com/file/d/1BP7vIZGWI-IXePGuS65M66SoSGR4kszu/view?usp=drive_link
 
 Kemampuan Robot :
  - Mengenali warna Merah, Kuning, Hijau, Biru, dan Putih sebagai sistem navigasi
